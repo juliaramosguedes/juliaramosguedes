@@ -17,8 +17,9 @@
 <p>I'm also a vegan food specialist, fan of Chinese martial arts, science fiction and guitar player in my spare time.</p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliaramosguedes&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://juliaramos.com.br)
-
+<!-- 
 <h3>Checkout some stats since 05/08/2020</h3>
-
+ -->
+ 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
