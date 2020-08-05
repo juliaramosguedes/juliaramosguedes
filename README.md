@@ -1,6 +1,16 @@
-### Hi there 👋
+<h2>Hi, I'm Julia Ramos! &#9996</h2>
+<img align='right' src="https://media-exp1.licdn.com/dms/image/C4E22AQHXtvixprmF3g/feedshare-shrink_2048_1536/0?e=1599696000&v=beta&t=RO40d3HlRDmcV_iyRnalnI6UZYBD0B5qV_jcMTTQeNI" width="230">
+<p><em>Software Engineer at <a href="https://www.ampli.com.br/graduacao/vestibular/n">Ampli</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
+<!--![Twitter Follow](https://img.shields.io/twitter/follow/juliaramosdev?label=Follow) -->
+[![Linkedin: julia-ramos-guedes](https://img.shields.io/badge/-juliaramosguedes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-ramos-guedes/)](https://www.linkedin.com/in/julia-ramos-guedes/)
+![GitHub followers](https://img.shields.io/github/followers/juliaramosguedes?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=juliaramosguedes.juliaramosguedes)
+
+
+<!--<img src="https://media-exp1.licdn.com/dms/image/C4D22AQHb_fO2zhMweA/feedshare-shrink_1280/0?e=1599696000&v=beta&t=-bpAK9g6ewLwK4G1ayxFXOZjQ4UaMWL-tEHx6N9A3uc" width="150px" />
+
 **juliaramosguedes/juliaramosguedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
