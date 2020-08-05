@@ -10,7 +10,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/juliaramosdev?label=Follow&style=for-the-badge)
  -->
 
-<img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/master/assets/octocat_julia.png?raw=true" width="350">
+<img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/master/assets/octocat_julia.png?raw=true" width="335">
 <p><em>Software Engineer at <a href="https://www.ampli.com.br/graduacao/vestibular/n">Pitágoras Ampli </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <p>Javascript lover, I'm a full stack developer with NodeJS && ReactJS && React Native.</p>
