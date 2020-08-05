@@ -17,7 +17,7 @@
 </em></p>
 
 
-<img align='left' src="https://icon-icons.com/icons2/2108/PNG/48/javascript_icon_130900.png"> <p>Javascript lover, I'm a full stack developer with NodeJS && ReactJS && React Native && Typescript.</p>
+<img align='left' src="https://icon-icons.com/icons2/2108/PNG/48/javascript_icon_130900.png" width="46px"> <p>Javascript lover, I'm a full stack developer with NodeJS && ReactJS && React Native && Typescript.</p>
 <p>I'm also a vegan food specialist, fan of Chinese martial arts, science fiction and guitar player in my spare time.</p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliaramosguedes&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://juliaramos.com.br)
