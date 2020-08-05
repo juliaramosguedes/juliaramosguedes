@@ -8,7 +8,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/juliaramosguedes?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=juliaramosguedes.juliaramosguedes)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliaramosguedes&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliaramosguedes&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://juliaramos.com.br)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
