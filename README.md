@@ -1,8 +1,8 @@
 <h2>Hi, I'm Julia Ramos! &#9996</h2>
 
 
-[![Linkedin: julia-ramos-guedes](https://img.shields.io/badge/-juliaramosguedes-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-ramos-guedes/)](https://www.linkedin.com/in/julia-ramos-guedes/)
-[![Medium: @juliaramosguedes](https://img.shields.io/badge/-@juliaramosguedes-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@juliaramosguedes/)](https://medium.com/@juliaramosguedes/)
+[![Linkedin: julia-ramos-guedes](https://img.shields.io/badge/-juliaramosguedes-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-ramos-guedes/)](https://www.linkedin.com/in/julia-ramos-guedes/)
+[![Medium: @juliaramosguedes](https://img.shields.io/badge/-@juliaramosguedes-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@juliaramosguedes/)](https://medium.com/@juliaramosguedes/)
 ![](https://medium.com/@juliaramosguedes/followers)
 <!-- 
 ![GitHub followers](https://img.shields.io/github/followers/juliaramosguedes?label=Follow&style=for-the-badge&logo=Github&logoColor=white)
