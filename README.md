@@ -1,5 +1,5 @@
 <h2>Hi, I'm Julia Ramos! &#9996</h2>
-<img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/master/assets/octocat_julia.png?raw=true" width="255">
+<img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/master/assets/octocat_julia.png?raw=true" width="275">
 <p><em>Software Engineer at <a href="https://www.ampli.com.br/graduacao/vestibular/n">Ampli </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
