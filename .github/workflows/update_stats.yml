@@ -2,11 +2,11 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "10 11 * * *"
+    - cron: "30 11 * * *"
 
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
