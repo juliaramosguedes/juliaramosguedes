@@ -1,7 +1,9 @@
 <h2>Hi, I'm Julia Ramos! &#9996</h2>
-<img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/master/assets/octocat_julia.png?raw=true" width="275">
-<p><em>Software Engineer at <a href="https://www.ampli.com.br/graduacao/vestibular/n">Ampli </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/master/assets/octocat_julia.png?raw=true" width="390">
+<p><em>Software Engineer at <a href="https://www.ampli.com.br/graduacao/vestibular/n">Pitágoras Ampli </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+<p>Javascript lover, I'm a full stack developer with NodeJS && ReactJS && React Native.</p>
+<p>I'm also a vegan food specialist, fan of Chinese martial arts, science fiction and guitar player in my spare time.</p>
 
 <!--![Twitter Follow](https://img.shields.io/twitter/follow/juliaramosdev?label=Follow) -->
 [![Linkedin: julia-ramos-guedes](https://img.shields.io/badge/-juliaramosguedes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-ramos-guedes/)](https://www.linkedin.com/in/julia-ramos-guedes/)
@@ -9,6 +11,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=juliaramosguedes.juliaramosguedes)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliaramosguedes&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://juliaramos.com.br)
+
+<h3>Checkout some stats since 05/08/2020</h3>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
