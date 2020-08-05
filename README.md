@@ -1,5 +1,5 @@
 <h2>Hi, I'm Julia Ramos! &#9996</h2>
-<img align='right' src="https://media-exp1.licdn.com/dms/image/C4E22AQHXtvixprmF3g/feedshare-shrink_2048_1536/0?e=1599696000&v=beta&t=RO40d3HlRDmcV_iyRnalnI6UZYBD0B5qV_jcMTTQeNI" width="230">
+<img align='right' src="./assets/octocat_julia.png" width="255">
 <p><em>Software Engineer at <a href="https://www.ampli.com.br/graduacao/vestibular/n">Ampli</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -8,19 +8,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/juliaramosguedes?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=juliaramosguedes.juliaramosguedes)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliaramosguedes&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--<img src="https://media-exp1.licdn.com/dms/image/C4D22AQHb_fO2zhMweA/feedshare-shrink_1280/0?e=1599696000&v=beta&t=-bpAK9g6ewLwK4G1ayxFXOZjQ4UaMWL-tEHx6N9A3uc" width="150px" />
-
-**juliaramosguedes/juliaramosguedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
