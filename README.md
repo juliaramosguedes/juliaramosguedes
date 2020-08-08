@@ -3,9 +3,10 @@
 [![Linkedin: julia-ramos-guedes](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-ramos-guedes/)](https://www.linkedin.com/in/julia-ramos-guedes/)
 [![Medium: @juliaramosguedes](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@juliaramosguedes/)](https://medium.com/@juliaramosguedes/)
 ![](https://medium.com/@juliaramosguedes/followers)
-![Waka Readme](https://github.com/juliaramosguedes/juliaramosguedes/workflows/Waka%20Readme/badge.svg)
-![](https://visitor-badge.glitch.me/badge?page_id=juliaramosguedes.juliaramosguedes)
+
 <!-- 
+![Waka Readme](https://github.com/juliaramosguedes/juliaramosguedes/workflows/Waka%20Readme/badge.svg)
+
 ![GitHub followers](https://img.shields.io/github/followers/juliaramosguedes?label=Follow&style=for-the-badge&logo=Github&logoColor=white)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/juliaramosdev?label=Follow&style=for-the-badge)
