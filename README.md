@@ -28,23 +28,23 @@
  -->
  
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-213-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-223-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-3.1%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 420 Contributions in year 2020
+> 🏆 420 Contributions in the year 2020
  > 
-> 📦 Used 21.5 kB in GitHub's Storage 
+> 📦 21.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 59 Public Repositories 
+> 📜 59 Public repositories
  > 
-> 🔑 4 Owned Private Repositories 
+> 🔑 4 Private repositories 
 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
@@ -53,7 +53,7 @@
 🌙 Night      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.03%
 
 ```
-📅 **I'm Most Productive on Saturdays** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday       36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.11% 
@@ -67,27 +67,27 @@ Sunday       46 commits     ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: America/Sao_Paulo
+⌚︎ Time zone: America/Sao_Paulo
 
-💬 Languages: 
+💬 Programming Languages: 
 JSX                      10 hrs 44 mins      █████████████░░░░░░░░░░░░   54.28% 
 JavaScript               8 hrs 41 mins       ███████████░░░░░░░░░░░░░░   43.87% 
 YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
 JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53% 
 HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
-🔥 Editors: 
+🔥 Code Editors: 
 VS Code                  19 hrs 47 mins      █████████████████████████   100.0%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Mac                      19 hrs 47 mins      █████████████████████████   100.0%
 
 ```
 
-**I mostly code in JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               15 repos            █████████████████░░░░░░░░   71.43% 
