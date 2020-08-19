@@ -28,13 +28,13 @@
  -->
  
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-226-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20Lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 423 Contributions in the year 2020
+> 🏆 425 Contributions in the year 2020
  > 
 > 📦 21.6 kB Used in Github's Storage 
  > 
