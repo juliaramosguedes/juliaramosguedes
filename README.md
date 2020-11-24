@@ -30,11 +30,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 795 Contributions in the Year 2020
+> 🏆 797 Contributions in the Year 2020
  > 
 > 📦 22.8 kB Used in Github's Storage 
  > 
@@ -73,18 +73,18 @@ Sunday       72 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Kotlin                   3 hrs 32 mins       ███████████████████░░░░░░   78.18% 
-JSX                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.29% 
-JavaScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.56% 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.33% 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
+Python                   2 hrs 45 mins       ████████████░░░░░░░░░░░░░   50.89% 
+Kotlin                   1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   26.43% 
+JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.26% 
+Protocol Buffer          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.11% 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.45%
 
 🔥 Editors: 
-IntelliJ                 3 hrs 33 mins       ███████████████████░░░░░░   78.38% 
-VS Code                  58 mins             █████░░░░░░░░░░░░░░░░░░░░   21.62%
+VS Code                  3 hrs 59 mins       ██████████████████░░░░░░░   73.57% 
+IntelliJ                 1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   26.43%
 
 💻 Operating System: 
-Mac                      4 hrs 31 mins       █████████████████████████   100.0%
+Mac                      5 hrs 25 mins       █████████████████████████   100.0%
 
 ```
 
@@ -100,7 +100,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/juliaramosguedes/juliaramosguedes/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/juliaramosguedes/juliaramosguedes/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
