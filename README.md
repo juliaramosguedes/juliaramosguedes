@@ -96,10 +96,4 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/juliaramosguedes/juliaramosguedes/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
