@@ -15,12 +15,12 @@
  -->
 
 <img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/master/assets/octocat_julia.png?raw=true" width="335">
-<p><em>Software Engineer at <a href="https://www.ampli.com.br/graduacao/vestibular/n">Pitágoras Ampli </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer at <a href="https://www.ampli.com.br/graduacao/vestibular">Pitágoras Ampli</a> and Teacher Assistant at <a href="https://www.digitalhouse.com/br/">Digital House</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
-<img align='left' src="https://icon-icons.com/icons2/2108/PNG/48/javascript_icon_130900.png" width="42px"> <p>Javascript lover, I'm a full stack developer with NodeJS && ReactJS && React Native && Typescript.</p>
-<p>I'm also a vegan food specialist, fan of Chinese martial arts, science fiction and guitar player in my spare time.</p>
+<img align='left' src="https://icon-icons.com/icons2/2108/PNG/48/javascript_icon_130900.png" width="42px"> <p>Javascript lover, I'm a full stack developer with NodeJS && ReactJS && Typescript.</p>
+<p>I'm also a vegan cook, chinese martial artist, science fiction fan and guitar player in my spare time.</p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliaramosguedes&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://juliaramos.com.br)
 <!-- 
