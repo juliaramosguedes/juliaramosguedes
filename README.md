@@ -15,12 +15,12 @@
  -->
 
 <img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/master/assets/octocat_julia.png?raw=true" width="335">
-<p><em>Software Engineer at <a href="https://www.ampli.com.br/graduacao/vestibular/n">Pitágoras Ampli </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer at <a href="https://www.ampli.com.br/graduacao/vestibular">Pitágoras Ampli</a> and Teacher Assistant at <a href="https://www.digitalhouse.com/br/">Digital House</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
-<img align='left' src="https://icon-icons.com/icons2/2108/PNG/48/javascript_icon_130900.png" width="42px"> <p>Javascript lover, I'm a full stack developer with NodeJS && ReactJS && React Native && Typescript.</p>
-<p>I'm also a vegan food specialist, fan of Chinese martial arts, science fiction and guitar player in my spare time.</p>
+<img align='left' src="https://icon-icons.com/icons2/2108/PNG/48/javascript_icon_130900.png" width="42px"> <p>Javascript lover, I'm a full stack developer with NodeJS && ReactJS && Typescript.</p>
+<p>I'm also a vegan cook, chinese martial artist, science fiction fan and guitar player in my spare time.</p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliaramosguedes&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://juliaramos.com.br)
 <!-- 
@@ -28,82 +28,70 @@
  -->
  
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-118-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
-> 🏆 398 Contributions in year 2020
+**🐱 My Github Data** 
+
+> 🏆 0 Contributions in the Year 2021
  > 
-> 📦 Used 22.3 kB in GitHub's Storage 
+> 📦 25.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 60 Public Repositories 
+> 📜 58 Public Repositories 
  > 
-> 🔑 4 Owned Private Repositories 
-
-**I'm an early 🐤** 
+> 🔑 3 Private Repositories  
+ > 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning    55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.51% 
-🌆 Daytime    148 commits    █████████░░░░░░░░░░░░░░░░   39.05% 
-🌃 Evening    171 commits    ███████████░░░░░░░░░░░░░░   45.12% 
-🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.32%
+🌞 Morning    83 commits     █████░░░░░░░░░░░░░░░░░░░░   19.58% 
+🌆 Daytime    182 commits    ██████████░░░░░░░░░░░░░░░   42.92% 
+🌃 Evening    147 commits    ████████░░░░░░░░░░░░░░░░░   34.67% 
+🌙 Night      12 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.83%
 
 ```
-📅 **I'm Most Productive on Saturdays** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
-Tuesday      56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
-Wednesday    69 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.21% 
-Thursday     50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
-Friday       44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
-Saturday     81 commits     █████░░░░░░░░░░░░░░░░░░░░   21.37% 
-Sunday       44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61%
+Monday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.97% 
+Tuesday      56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.21% 
+Wednesday    68 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.04% 
+Thursday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.62% 
+Friday       61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.39% 
+Saturday     73 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.22% 
+Sunday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.56%
 
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Timezone: America/Sao_Paulo
+⌚︎ Time Zone: America/Sao_Paulo
 
-💬 Languages: 
-JavaScript               7 hrs 5 mins        ███████████████████░░░░░░   77.19% 
-YAML                     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.3% 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.53% 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11% 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
+💬 Programming Languages: 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 hrs 11 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
-🐱‍💻 Projects: 
-revenda                  7 hrs 17 mins       ███████████████████░░░░░░   79.31% 
-juliaramosguedes         1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.62% 
-test                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.36% 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
-
-💻 Operating Systems: 
-Mac                      9 hrs 11 mins       █████████████████████████   100.0%
+💻 Operating System: 
+No Activity Tracked This Week
 
 ```
 
-**I mostly code in JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
-JavaScript   15 repos       █████████████████░░░░░░░░   71.43% 
-TypeScript   5 repos        ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-HTML         1 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+JavaScript               14 repos            █████████████████░░░░░░░░   70.0% 
+TypeScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://github.com/juliaramosguedes/juliaramosguedes/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
