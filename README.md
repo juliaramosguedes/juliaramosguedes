@@ -14,7 +14,7 @@
 <img src="https://icon-icons.com/icons2/2108/PNG/48/react_icon_130845.png" width="16px"> 
  -->
 
-<img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/master/assets/octocat_julia.png?raw=true" width="335">
+<img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/main/assets/octocat_julia.png?raw=true" width="335">
 <p><em>Software Engineer at <a href="https://www.ampli.com.br/graduacao/vestibular">Pitágoras Ampli</a> and Teacher Assistant at <a href="https://www.digitalhouse.com/br/">Digital House</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
