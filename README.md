@@ -18,14 +18,24 @@
 <p><em>Software Engineer at <a href="https://www.ampli.com.br/graduacao/vestibular">Pitágoras Ampli</a> and Teacher Assistant at <a href="https://www.digitalhouse.com/br/">Digital House</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+<p>Vegan for the love of animals and nature, defender of diversity, enthusiast in Chinese martial arts, science fiction and playing guitar. I value the simplicity and subtleties of life.</p>
 
-<img align='left' src="https://icon-icons.com/icons2/2108/PNG/48/javascript_icon_130900.png" width="42px"> <p>Javascript lover, I'm a full stack developer with NodeJS && ReactJS && Typescript.</p>
-<p>I'm also a vegan cook, chinese martial artist, science fiction fan and guitar player in my spare time.</p>
+<p>Eternal apprentice, I am constantly learning something new to improve my skills. As a professional, I believe that behavioral skills are just as important as techniques.</p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliaramosguedes&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://juliaramos.com.br)
-<!-- 
-<h3>Checkout some stats since 05/08/2020</h3>
- -->
+<p>I started studying programming in April 2019 and have been a full stack web developer since February 2020. <br/>
+I have experience with:</p>
+<ul>
+<li>HTML, CSS, Bootstrap, Git, Github</li>
+<li>Javascript, Typescript, Python, Kotlin</li>
+<li>React, Firebase, Node, Express, Jest</li>
+<li>REST, Protocol Buffer, gRPC, GraphQL</li>
+<li>MongoDB, Mongoose, MySql, SqlAlchemy, Springboot</li>
+<li>Functional programming, Object-oriented programming</li>
+<li>Test-driven development</li>
+<li>Domain-driven design, Model–view–controller</li>
+</ul>
+ 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliaramosguedes&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://juliaramos.dev)
  
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
