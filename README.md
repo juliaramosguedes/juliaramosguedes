@@ -38,13 +38,13 @@ I have experience with:</p>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliaramosguedes&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://juliaramos.dev)
  
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 139 Contributions in the Year 2021
+> 🏆 140 Contributions in the Year 2021
  > 
 > 📦 33.3 kB Used in Github's Storage 
  > 
@@ -83,17 +83,17 @@ Sunday       47 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JSX                      4 hrs 4 mins        ████████████░░░░░░░░░░░░░   50.13% 
-TypeScript               2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.55% 
-JavaScript               59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27% 
-JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.54% 
-Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08%
+TypeScript               2 hrs 18 mins       █████████████░░░░░░░░░░░░   52.88% 
+JSX                      1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   37.17% 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.15% 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84% 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
 
 🔥 Editors: 
-WebStorm                 8 hrs 6 mins        █████████████████████████   100.0%
+WebStorm                 4 hrs 21 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      8 hrs 6 mins        █████████████████████████   100.0%
+Mac                      4 hrs 21 mins       █████████████████████████   100.0%
 
 ```
 
