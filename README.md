@@ -1,7 +1,8 @@
 <h2>Hi, I'm Julia Ramos! &#9996</h2>
 
-[![Linkedin: julia-ramos-guedes](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-ramos-guedes/)](https://www.linkedin.com/in/julia-ramos-guedes/)
-[![Medium: @juliaramosguedes](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@juliaramosguedes/)](https://medium.com/@juliaramosguedes/)
+Follow me: 
+[![Linkedin: juliaramosguedes](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliaramosguedes/)](https://www.linkedin.com/in/juliaramosguedes/)
+[![Medium: @juliaramosguedes](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://juliaramosguedes.medium.com/)](https://juliaramosguedes.medium.com/)
 ![](https://medium.com/@juliaramosguedes/followers)
 
 <!-- 
@@ -27,12 +28,13 @@ I have experience with:</p>
 <ul>
 <li>HTML, CSS, Bootstrap, Git, Github</li>
 <li>Javascript, Typescript, Python, Kotlin</li>
-<li>React, Firebase, Node, Express, Jest</li>
+<li>React, Firebase, Node, Express, Next, Jest</li>
 <li>REST, Protocol Buffer, gRPC, GraphQL</li>
-<li>MongoDB, Mongoose, MySql, SqlAlchemy, Springboot</li>
+<li>Docker, MongoDB, MySql, Postgres</li>
+ <li>Mongoose, TypeORM, SqlAlchemy, Springboot</li>
 <li>Functional programming, Object-oriented programming</li>
-<li>Test-driven development</li>
 <li>Domain-driven design, Model–view–controller</li>
+<li>Test-driven development</li>
 </ul>
  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliaramosguedes&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://juliaramos.dev)
