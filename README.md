@@ -35,6 +35,7 @@ I have experience with:</p>
 <li>Functional programming, Object-oriented programming</li>
 <li>Domain-driven design, Model–view–controller</li>
 <li>Test-driven development</li>
+ <li>Agile</li>
 </ul>
  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliaramosguedes&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://juliaramos.dev)
