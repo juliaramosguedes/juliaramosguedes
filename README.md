@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-# Hi, I'm Julia Ramos! &#9996
+<h1>Hi, I'm Julia Ramos! &#9996</h1>
 
 Follow me: 
 [![Linkedin: /juliaramosguedes](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliaramosguedes/)](https://www.linkedin.com/in/juliaramosguedes/)
