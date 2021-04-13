@@ -1,9 +1,9 @@
-<img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/main/assets/banner.gif?raw=true" width="100%">
+<img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/main/assets/banner-social-media.gif?raw=true" width="100%">
 
 <br/>
 <br/>
 
-<h2>Hi, I'm Julia Ramos! &#9996</h2>
+# Hi, I'm Julia Ramos! &#9996
 
 Follow me: 
 [![Linkedin: /juliaramosguedes](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliaramosguedes/)](https://www.linkedin.com/in/juliaramosguedes/)
