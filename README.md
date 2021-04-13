@@ -1,10 +1,14 @@
+<img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/main/assets/banner.gif?raw=true" width="100%">
+
+<br/>
+<br/>
+
 <h2>Hi, I'm Julia Ramos! &#9996</h2>
 
 Follow me: 
-[![Linkedin: juliaramosguedes](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliaramosguedes/)](https://www.linkedin.com/in/juliaramosguedes/)
+[![Linkedin: /juliaramosguedes](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliaramosguedes/)](https://www.linkedin.com/in/juliaramosguedes/)
 [![Medium: @juliaramosguedes](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://juliaramosguedes.medium.com/)](https://juliaramosguedes.medium.com/)
 ![](https://medium.com/@juliaramosguedes/followers)
-
 <!-- 
 ![Waka Readme](https://github.com/juliaramosguedes/juliaramosguedes/workflows/Waka%20Readme/badge.svg)
 
@@ -23,18 +27,20 @@ Follow me:
 
 <p>Eternal apprentice, I am constantly learning something new to improve my skills. As a professional, I believe that behavioral skills are just as important as techniques.</p>
 
+<p>One of my slogans is "You write code for other people to understand."</p>
+
 <p>I started studying programming in April 2019 and have been a full stack web developer since February 2020. <br/>
 I have experience with:</p>
 <ul>
-<li>HTML, CSS, Bootstrap, Git, Github</li>
-<li>Javascript, Typescript, Python, Kotlin</li>
-<li>React, Firebase, Node, Express, Next, Jest</li>
-<li>REST, Protocol Buffer, gRPC, GraphQL</li>
-<li>Docker, MongoDB, MySql, Postgres</li>
+ <li>HTML, CSS, Bootstrap, Git, Github</li>
+ <li>Javascript, Typescript, Python, Kotlin</li>
+ <li>React, Firebase, Node, Express, Next, Jest</li>
+ <li>REST, Protocol Buffer, gRPC, GraphQL</li>
+ <li>Docker, MongoDB, MySql, Postgres</li>
  <li>Mongoose, TypeORM, SqlAlchemy, Springboot</li>
-<li>Functional programming, Object-oriented programming</li>
-<li>Domain-driven design, Model–view–controller</li>
-<li>Test-driven development</li>
+ <li>Functional programming, Object-oriented programming</li>
+ <li>Domain-driven design, Model–view–controller</li>
+ <li>Test-driven development</li>
  <li>Agile</li>
 </ul>
  
