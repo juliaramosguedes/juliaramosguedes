@@ -39,9 +39,13 @@ I have experience with:</p>
 * [x] Domain-driven design, Model–view–controller
 * [x] Test-driven development
 * [x] Agile
- 
+
+&nbsp;
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliaramosguedes&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://juliaramos.dev)
- 
+
+&nbsp;
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
 
