@@ -77,15 +77,15 @@ I have experience with:</p>
 &nbsp;
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 311 Contributions in the Year 2021
+> 🏆 312 Contributions in the Year 2021
  > 
-> 📦 113.7 kB Used in Github's Storage 
+> 📦 113.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -122,7 +122,7 @@ Sunday       66 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               6 hrs 3 mins        ████████████░░░░░░░░░░░░░   51.25% 
+TypeScript               6 hrs 3 mins        ████████████░░░░░░░░░░░░░   51.26% 
 JavaScript               3 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.41% 
 JSX                      54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.72% 
 Protocol Buffer          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.38% 
