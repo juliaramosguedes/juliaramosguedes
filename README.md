@@ -83,7 +83,7 @@ I have experience with:</p>
 
 **🐱 My Github Data** 
 
-> 🏆 317 Contributions in the Year 2021
+> 🏆 320 Contributions in the Year 2021
  > 
 > 📦 115.1 kB Used in Github's Storage 
  > 
@@ -150,5 +150,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2021
+ Last Updated on 14/06/2021
 <!--END_SECTION:waka-->
