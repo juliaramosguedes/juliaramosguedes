@@ -17,7 +17,7 @@
  -->
 
 <img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/main/assets/octocat_julia.png?raw=true" width="335">
-<p><em>Software Engineer at <a href="https://www.ampli.com.br/graduacao/vestibular">Pitágoras Ampli</a> and Teacher Assistant at <a href="https://www.digitalhouse.com/br/">Digital House</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer at <a href="https://www.ironhack.com">Ironhack</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <p>Vegan for the love of animals and nature, defender of diversity, enthusiast in Chinese martial arts, science fiction and playing guitar. I value the simplicity and subtleties of life.</p>
