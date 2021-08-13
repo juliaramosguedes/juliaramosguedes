@@ -77,13 +77,13 @@ I have experience with:</p>
 &nbsp;
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 389 Contributions in the Year 2021
+> 🏆 390 Contributions in the Year 2021
  > 
 > 📦 118.7 kB Used in Github's Storage 
  > 
@@ -122,13 +122,16 @@ Sunday       61 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 4 mins         █████████████████████░░░░   83.83% 
+JavaScript               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.7% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 16 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 16 mins        █████████████████████████   100.0%
 
 ```
 
@@ -144,5 +147,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2021
+ Last Updated on 13/08/2021
 <!--END_SECTION:waka-->
