@@ -79,11 +79,11 @@ I have experience with:</p>
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--632826%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--633%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 531 Contributions in the Year 2021
+> 🏆 533 Contributions in the Year 2021
  > 
 > 📦 121.7 kB Used in GitHub's Storage 
  > 
@@ -122,7 +122,7 @@ Sunday       34 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               8 hrs 15 mins       █████████████████████░░░░   85.51% 
+TypeScript               8 hrs 15 mins       █████████████████████░░░░   85.5% 
 JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.16% 
 JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.67% 
 Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.66% 
@@ -148,5 +148,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2021
+ Last Updated on 06/12/2021
 <!--END_SECTION:waka-->
