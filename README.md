@@ -85,7 +85,7 @@ I have experience with:</p>
 
 > 🏆 555 Contributions in the Year 2021
  > 
-> 📦 121.7 kB Used in GitHub's Storage 
+> 📦 121.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -148,5 +148,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/12/2021
+ Last Updated on 20/12/2021
 <!--END_SECTION:waka-->
