@@ -77,7 +77,7 @@ I have experience with:</p>
 &nbsp;
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--610%20Thousand%20lines%20of%20code-blue)
 
@@ -149,5 +149,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/01/2022 23:26:27 UTC
+ Last Updated on 28/01/2022 23:26:58 UTC
 <!--END_SECTION:waka-->
