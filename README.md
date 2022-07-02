@@ -124,14 +124,13 @@ Sunday       17 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               1 hr 12 mins        ████████████████████████░   98.23% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 1 hr 13 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 13 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -148,5 +147,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2022 23:27:52 UTC
+ Last Updated on 02/07/2022 23:24:50 UTC
 <!--END_SECTION:waka-->
