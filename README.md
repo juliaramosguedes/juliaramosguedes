@@ -79,7 +79,7 @@ I have experience with:</p>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--603%20Thousand%20lines%20of%20code-blue)
 
@@ -124,15 +124,14 @@ Sunday       17 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 56 mins       █████████████████████░░░░   84.35% 
-JSON                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.42% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
+TypeScript               2 hrs 6 mins        █████████████████████░░░░   86.44% 
+JSON                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.56%
 
 🔥 Editors: 
-WebStorm                 3 hrs 29 mins       █████████████████████████   100.0%
+WebStorm                 2 hrs 26 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      3 hrs 29 mins       █████████████████████████   100.0%
+Mac                      2 hrs 26 mins       █████████████████████████   100.0%
 
 ```
 
@@ -149,5 +148,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2022 23:31:57 UTC
+ Last Updated on 13/07/2022 23:26:44 UTC
 <!--END_SECTION:waka-->
