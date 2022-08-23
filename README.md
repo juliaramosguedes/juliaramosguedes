@@ -85,6 +85,8 @@ I have experience with:</p>
 
 **🐱 My GitHub Data** 
 
+> 🏆 167 Contributions in the Year 2022
+ > 
 > 📦 179.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -149,5 +151,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2022 23:30:05 UTC
+ Last Updated on 23/08/2022 23:30:09 UTC
 <!--END_SECTION:waka-->
