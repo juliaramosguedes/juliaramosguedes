@@ -6,17 +6,8 @@
 [![Linkedin: /juliaramosguedes](https://img.shields.io/badge/-Linkedin-gray?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliaramosguedes/)](https://www.linkedin.com/in/juliaramosguedes/)
 [![Medium: @juliaramosguedes](https://img.shields.io/badge/-Medium-gray?style=flat-square&logo=Medium&logoColor=white&link=https://juliaramosguedes.medium.com/)](https://juliaramosguedes.medium.com/)
 ![](https://medium.com/@juliaramosguedes/followers)
-<!-- 
-![Waka Readme](https://github.com/juliaramosguedes/juliaramosguedes/workflows/Waka%20Readme/badge.svg)
 
-![GitHub followers](https://img.shields.io/github/followers/juliaramosguedes?label=Follow&style=for-the-badge&logo=Github&logoColor=white)
-
-![Twitter Follow](https://img.shields.io/twitter/follow/juliaramosdev?label=Follow&style=for-the-badge)
-<img src="https://icon-icons.com/icons2/2107/PNG/48/file_type_node_icon_130301.png" width="16px">
-<img src="https://icon-icons.com/icons2/2108/PNG/48/react_icon_130845.png" width="16px"> 
- -->
-
-<p>I am a brazilian <em>Software Engineer</em> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">🇧🇷</p>
+<p>I am a brazilian <b>Software Engineer</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">🇧🇷</p>
 
 <p>My purpose is to open doors so people can have better life opportunities and I chose to do so through my expertise in technology, applied to the education market.</p>
 
@@ -32,6 +23,7 @@ I have experience with:</p>
 ![Tech: HTML](https://img.shields.io/badge/HTML-gray?logo=html5&style=flat-square&logoColor=white)
 ![Tech: CSS](https://img.shields.io/badge/CSS-gray?logo=css3&style=flat-square&logoColor=white)
 ![Tech: ChakraUI](https://img.shields.io/badge/ChakraUI-gray?logo=chakraui&style=flat-square&logoColor=white)
+![Tech: Styled Components](https://img.shields.io/badge/Styled-components-gray?logo=styledcomponents&style=flat-square&logoColor=white)
 ![Tech: Git](https://img.shields.io/badge/Git-gray?logo=git&style=flat-square&logoColor=white)
 ![Tech: Github](https://img.shields.io/badge/Github-gray?logo=github&style=flat-square&logoColor=white)
 
