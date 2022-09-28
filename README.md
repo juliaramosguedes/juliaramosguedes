@@ -16,22 +16,22 @@
 <img src="https://icon-icons.com/icons2/2108/PNG/48/react_icon_130845.png" width="16px"> 
  -->
 
-<img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/main/assets/octocat_julia.png?raw=true" width="335">
-<p><em>Software Engineer at <a href="https://www.ironhack.com">Ironhack</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p>I am a brazilian <em>Software Engineer</em> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">🇧🇷</p>
 
-<p>Vegan for the love of animals and nature, defender of diversity, enthusiast in Chinese martial arts, science fiction and playing guitar. I value the simplicity and subtleties of life.</p>
+<p>My purpose is to open doors so people can have better life opportunities and I chose to do so through my expertise in technology, applied to the education market.</p>
 
-<p>Eternal apprentice, I am constantly learning something new to improve my skills. As a professional, I believe that behavioral skills are just as important as techniques.</p>
+<p>Vegan for my love of animals and nature, an advocate for diversity, and an enthusiast of Chinese martial arts, science fiction, and guitar. I value the simplicity and subtleties of life.</p>
 
-<p>One of my slogans is "You write code for other people to understand."</p>
+<p>Eternal apprentice, I am constantly working on myself. As a professional, I believe that behavioral skills are just as important as technical skills.</p>
 
-<p>I started studying programming in April 2019 and have been a full stack web developer since February 2020. <br/>
+<p>One of my live mottos is "You write code so other people understand."</p>
+
+<p>I started studying programming in April 2019 and have been a full stack Javascript developer since February 2020. <br/>
 I have experience with:</p>
 
 ![Tech: HTML](https://img.shields.io/badge/HTML-gray?logo=html5&style=flat-square&logoColor=white)
 ![Tech: CSS](https://img.shields.io/badge/CSS-gray?logo=css3&style=flat-square&logoColor=white)
-![Tech: Bootstrap](https://img.shields.io/badge/Bootstrap-gray?logo=bootstrap&style=flat-square&logoColor=white)
+![Tech: ChakraUI](https://img.shields.io/badge/ChakraUI-gray?logo=chakraui&style=flat-square&logoColor=white)
 ![Tech: Git](https://img.shields.io/badge/Git-gray?logo=git&style=flat-square&logoColor=white)
 ![Tech: Github](https://img.shields.io/badge/Github-gray?logo=github&style=flat-square&logoColor=white)
 
@@ -41,13 +41,14 @@ I have experience with:</p>
 ![Tech: Kotlin](https://img.shields.io/badge/Kotlin-gray?logo=kotlin&style=flat-square&logoColor=white)
 
 ![Tech: React](https://img.shields.io/badge/React-gray?logo=react&style=flat-square&logoColor=white)
-![Tech: Firebase](https://img.shields.io/badge/Firebase-gray?logo=firebase&style=flat-square&logoColor=white)
+![Tech: Next](https://img.shields.io/badge/Next-gray?logo=next.js&style=flat-square&logoColor=white)
+![Tech: Storybook](https://img.shields.io/badge/Storybook-gray?logo=storybook&style=flat-square&logoColor=white)
 ![Tech: Node](https://img.shields.io/badge/Node-gray?logo=node.js&style=flat-square&logoColor=white)
 ![Tech: Express](https://img.shields.io/badge/Express-gray?logo=express.js&style=flat-square&logoColor=white)
-![Tech: Next](https://img.shields.io/badge/Next-gray?logo=next.js&style=flat-square&logoColor=white)
+![Tech: Firebase](https://img.shields.io/badge/Firebase-gray?logo=firebase&style=flat-square&logoColor=white)
 ![Tech: Jest](https://img.shields.io/badge/Jest-gray?logo=jest&style=flat-square&logoColor=white)
 
-![Tech: REST](https://img.shields.io/badge/REST-gray?logo=rest&style=flat-square&logoColor=white)
+![Tech: REST](https://img.shields.io/badge/Rest-gray?logo=rest&style=flat-square&logoColor=white)
 ![Tech: Protocol Buffer](https://img.shields.io/badge/Protobuf-gray?logo=protobuf&style=flat-square&logoColor=white)
 ![Tech: gRPC](https://img.shields.io/badge/gRPC-gray?logo=grpc&style=flat-square&logoColor=white)
 ![Tech: GraphQL](https://img.shields.io/badge/GraphQL-gray?logo=graphql&style=flat-square&logoColor=white)
@@ -66,90 +67,5 @@ I have experience with:</p>
 ![Tech: Object-oriented programming](https://img.shields.io/badge/OOP-gray?style=flat-square)
 
 ![Tech: Domain-driven design](https://img.shields.io/badge/DDD-gray?style=flat-square)
-![Tech: Model–view–controller](https://img.shields.io/badge/MVC-gray?style=flat-square)
 ![Tech: Test-driven development](https://img.shields.io/badge/TDD-gray?style=flat-square)
 ![Tech: Agile](https://img.shields.io/badge/Agile-gray?style=flat-square)
-
-&nbsp;
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliaramosguedes&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://juliaramos.dev)
-
-&nbsp;
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C136%20hrs%2052%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--603%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 197 Contributions in the Year 2022
- > 
-> 📦 179.5 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 93 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    47 commits     █████░░░░░░░░░░░░░░░░░░░░   23.15% 
-🌆 Daytime    87 commits     ██████████░░░░░░░░░░░░░░░   42.86% 
-🌃 Evening    63 commits     ███████░░░░░░░░░░░░░░░░░░   31.03% 
-🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.96%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.85% 
-Tuesday      49 commits     ██████░░░░░░░░░░░░░░░░░░░   24.14% 
-Wednesday    50 commits     ██████░░░░░░░░░░░░░░░░░░░   24.63% 
-Thursday     22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.84% 
-Friday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.42% 
-Saturday     34 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.75% 
-Sunday       17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.37%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-TypeScript               14 hrs 23 mins      ███████████████████████░░   94.34% 
-JavaScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.75% 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
-GraphQL                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6% 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
-
-🔥 Editors: 
-WebStorm                 15 hrs 15 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      15 hrs 15 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               25 repos            ████████████░░░░░░░░░░░░░   49.02% 
-JavaScript               22 repos            ██████████░░░░░░░░░░░░░░░   43.14% 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.92% 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96% 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
-
-```
-
-
-
- Last Updated on 27/09/2022 23:35:54 UTC
-<!--END_SECTION:waka-->
