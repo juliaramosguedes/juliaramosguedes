@@ -7,15 +7,17 @@
 [![Medium: @juliaramosguedes](https://img.shields.io/badge/-Medium-gray?style=flat-square&logo=Medium&logoColor=white&link=https://juliaramosguedes.medium.com/)](https://juliaramosguedes.medium.com/)
 ![](https://medium.com/@juliaramosguedes/followers)
 
-<p>I am a brazilian <b>Software Engineer</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">🇧🇷</p>
+<p>I am a brazilian <b>Software Engineer</b> and <b>Educator</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">🇧🇷</p>
 
-<p>My purpose is to open doors so people can have better life opportunities and I chose to do so through my expertise in technology, applied to the education market.</p>
+<p>My purpose is to open doors so people can have better life opportunities through technology and education.</p>
 
-<p>Vegan for my love of animals and nature, an advocate for diversity, and an enthusiast of Chinese martial arts, science fiction, and guitar. I value the simplicity and subtleties of life.</p>
+<p>Vegan for my love of animals and nature, an advocate for diversity, and an enthusiast of Chinese martial arts, yoga, meditation, and science fiction. I value the simplicity and subtleties of life.</p>
 
 <p>Eternal apprentice, I am constantly working on myself. As a professional, I believe that behavioral skills are just as important as technical skills.</p>
 
 <p>One of my live mottos is "You write code so other people understand."</p>
+
+<p>As a developer, I have always worked with Product and, most of the time, in the area of Growth. Following every stage of a product lifecycle and working towards its growth is what fascinates me the most. To improve my skills as a frontend, I also did the UX UI Product Design course at Ironhack.</p>
 
 <p>I started studying programming in April 2019 and have been a full stack Javascript developer since February 2020. <br/>
 I have experience with:</p>
