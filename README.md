@@ -1,33 +1,26 @@
-<img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/main/assets/banner-social-media.gif?raw=true" width="100%">
+<img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/main/assets/linkedin-company.jpg?raw=true" width="100%">
 &nbsp;
-<h1>Hi, I'm Julia Ramos! &#9996</h1>
 
-[![Email: juliaramos](https://img.shields.io/badge/-Email-gray?style=flat-square&logo=Minutemailer&logoColor=white)](mailto:hi@juliaramos.dev)
-[![Linkedin: /juliaramosguedes](https://img.shields.io/badge/-Linkedin-gray?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliaramosguedes/)](https://www.linkedin.com/in/juliaramosguedes/)
-[![Medium: @juliaramosguedes](https://img.shields.io/badge/-Medium-gray?style=flat-square&logo=Medium&logoColor=white&link=https://juliaramosguedes.medium.com/)](https://juliaramosguedes.medium.com/)
-![](https://medium.com/@juliaramosguedes/followers)
+<p>Hello! I'm a front-end engineer specializing in design with 5 years of experience in growing companies and I'm Tech Seed's Founder CEO.</p>
 
-<p>I am a brazilian <b>Software Engineer</b> and <b>Educator</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">🇧🇷</p>
+<p>I have 1.5 years of international experience with a Europe-based global company, and I'm open to contract work.</p>
 
-<p>My purpose is to open doors so people can have better life opportunities through technology and education.</p>
+<p>I help companies grow quickly and smoothly by applying SEO, Accessibility, and Performance best practices, and by implementing Design Systems and A/B Tests.</p>
 
-<p>Vegan for my love of animals and nature, an advocate for diversity, and an enthusiast of Chinese martial arts, yoga, meditation, and science fiction. I value the simplicity and subtleties of life.</p>
+<p>Creating beautiful, functional websites with amazing user experiences is my passion. I work enthusiastically to ensure companies growth and success.</p>
 
-<p>Eternal apprentice, I am constantly working on myself. As a professional, I believe that behavioral skills are just as important as technical skills.</p>
+<p>In collaboration with designers and product managers, I prioritize user and business needs.</p>
 
-<p>One of my live mottos is "You write code so other people understand."</p>
-
-<p>As a developer, I have always worked with Product and, most of the time, in the area of Growth. Following every stage of a product lifecycle and working towards its growth is what fascinates me the most. To improve my skills as a frontend, I also did the UX UI Product Design course at Ironhack.</p>
-
-<p>I started studying programming in April 2019 and have been a full stack Javascript developer since February 2020. <br/>
-I have experience with:</p>
+<p>My main stack includes Next, React, Node, and Typescript. I also have experience with backend, and a variety of technologies and programming languages. Check it out some of them below:</p>
 
 ![Tech: HTML](https://img.shields.io/badge/HTML-gray?logo=html5&style=flat-square&logoColor=white)
 ![Tech: CSS](https://img.shields.io/badge/CSS-gray?logo=css3&style=flat-square&logoColor=white)
-![Tech: ChakraUI](https://img.shields.io/badge/ChakraUI-gray?logo=chakraui&style=flat-square&logoColor=white)
-![Tech: Styled Components](https://img.shields.io/badge/Styled-components-gray?logo=styledcomponents&style=flat-square&logoColor=white)
 ![Tech: Git](https://img.shields.io/badge/Git-gray?logo=git&style=flat-square&logoColor=white)
 ![Tech: Github](https://img.shields.io/badge/Github-gray?logo=github&style=flat-square&logoColor=white)
+
+![Tech: Tailwind](https://img.shields.io/badge/Tailwind-gray?logo=tailwindcss&style=flat-square&logoColor=white)
+![Tech: ChakraUI](https://img.shields.io/badge/ChakraUI-gray?logo=chakraui&style=flat-square&logoColor=white)
+![Tech: Styled-Components](https://img.shields.io/badge/Styled-components-gray?logo=styled-components&style=flat-square&logoColor=white)
 
 ![Tech: Javascript](https://img.shields.io/badge/Javascript-gray?logo=javascript&style=flat-square&logoColor=white)
 ![Tech: Typescript](https://img.shields.io/badge/Typescript-gray?logo=typescript&style=flat-square&logoColor=white)
@@ -36,24 +29,22 @@ I have experience with:</p>
 
 ![Tech: React](https://img.shields.io/badge/React-gray?logo=react&style=flat-square&logoColor=white)
 ![Tech: Next](https://img.shields.io/badge/Next-gray?logo=next.js&style=flat-square&logoColor=white)
-![Tech: Storybook](https://img.shields.io/badge/Storybook-gray?logo=storybook&style=flat-square&logoColor=white)
 ![Tech: Node](https://img.shields.io/badge/Node-gray?logo=node.js&style=flat-square&logoColor=white)
-![Tech: Express](https://img.shields.io/badge/Express-gray?logo=express.js&style=flat-square&logoColor=white)
-![Tech: Firebase](https://img.shields.io/badge/Firebase-gray?logo=firebase&style=flat-square&logoColor=white)
+![Tech: Nest](https://img.shields.io/badge/Nest-gray?logo=nestjs&style=flat-square&logoColor=white)
 ![Tech: Jest](https://img.shields.io/badge/Jest-gray?logo=jest&style=flat-square&logoColor=white)
 
-![Tech: REST](https://img.shields.io/badge/Rest-gray?logo=rest&style=flat-square&logoColor=white)
-![Tech: Protocol Buffer](https://img.shields.io/badge/Protobuf-gray?logo=protobuf&style=flat-square&logoColor=white)
-![Tech: gRPC](https://img.shields.io/badge/gRPC-gray?logo=grpc&style=flat-square&logoColor=white)
+![Tech: Storybook](https://img.shields.io/badge/Storybook-gray?logo=storybook&style=flat-square&logoColor=white)
+![Tech: REST](https://img.shields.io/badge/REST-gray?logo=rest&style=flat-square&logoColor=white)
 ![Tech: GraphQL](https://img.shields.io/badge/GraphQL-gray?logo=graphql&style=flat-square&logoColor=white)
-
 ![Tech: Docker](https://img.shields.io/badge/Docker-gray?logo=docker&style=flat-square&logoColor=white)
+
 ![Tech: MongoDB](https://img.shields.io/badge/MongoDB-gray?logo=mongodb&style=flat-square&logoColor=white)
 ![Tech: MySql](https://img.shields.io/badge/MySql-gray?logo=mysql&style=flat-square&logoColor=white)
 ![Tech: Postgres](https://img.shields.io/badge/Postgres-gray?logo=postgresql&style=flat-square&logoColor=white)
+![Tech: Prisma](https://img.shields.io/badge/Prisma-gray?logo=prisma&style=flat-square&logoColor=white)
 
-![Tech: Mongoose](https://img.shields.io/badge/Mongoose-gray?logo=Mongoose&style=flat-square&logoColor=white)
 ![Tech: TypeORM](https://img.shields.io/badge/TypeORM-gray?logo=typeorm&style=flat-square&logoColor=white)
+![Tech: Mongoose](https://img.shields.io/badge/Mongoose-gray?logo=Mongoose&style=flat-square&logoColor=white)
 ![Tech: SqlAlchemy](https://img.shields.io/badge/SqlAlchemy-gray?logo=sqlalchemy&style=flat-square&logoColor=white)
 ![Tech: Springboot](https://img.shields.io/badge/Springboot-gray?logo=springboot&style=flat-square&logoColor=white)
 
@@ -63,3 +54,12 @@ I have experience with:</p>
 ![Tech: Domain-driven design](https://img.shields.io/badge/DDD-gray?style=flat-square)
 ![Tech: Test-driven development](https://img.shields.io/badge/TDD-gray?style=flat-square)
 ![Tech: Agile](https://img.shields.io/badge/Agile-gray?style=flat-square)
+
+<h2>Contact</h2>
+<p>If you're looking for a dedicated and passionate web developer, checkout my profile and send me a message! I would love to help your company grow.</p>
+
+[![Email: juliaramos](https://img.shields.io/badge/-Email-gray?style=flat-square&logo=Minutemailer&logoColor=white)](mailto:juliaramosguedes@gmail.com)
+[![Linkedin: /juliaramosguedes](https://img.shields.io/badge/-Linkedin-gray?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliaramosguedes/)](https://www.linkedin.com/in/juliaramosguedes/)
+[![Medium: @juliaramosguedes](https://img.shields.io/badge/-Medium-gray?style=flat-square&logo=Medium&logoColor=white&link=https://juliaramosguedes.medium.com/)](https://juliaramosguedes.medium.com/)
+![](https://medium.com/@juliaramosguedes/followers)
+
