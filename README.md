@@ -1,4 +1,4 @@
-<img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/main/assets/linkedin-company.jpg?raw=true" width="100%">
+<img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/main/assets/linkedin-profile.png?raw=true" width="100%">
 &nbsp;
 
 <p>Hello! I'm a front-end engineer specializing in design with 5 years of experience in growing companies and I'm Tech Seed's Founder CEO.</p>
