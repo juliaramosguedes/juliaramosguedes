@@ -1,9 +1,9 @@
 <img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/main/assets/linkedin-profile.png?raw=true" width="100%">
 &nbsp;
 
-<p>Hello! I'm a front-end engineer specializing in design with 5 years of experience in growing companies and I'm Tech Seed's Founder CEO.</p>
+<p>Hello! I'm a software engineer specializing in design with 4+ years of experience in growing companies.</p>
 
-<p>I have 1.5 years of international experience with a Europe-based global company, and I'm open to contract work.</p>
+<p>I have 1+ years of international experience with a Europe-based global company, and I'm open to contract work.</p>
 
 <p>I help companies grow quickly and smoothly by applying SEO, Accessibility, and Performance best practices, and by implementing Design Systems and A/B Tests.</p>
 
