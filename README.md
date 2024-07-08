@@ -11,7 +11,7 @@
 
 <p>In collaboration with designers and product managers, I prioritize user and business needs.</p>
 
-<p>My main stack includes Next, React, Node, and Typescript. I also have experience with backend, and a variety of technologies and programming languages. Check it out some of them below:</p>
+<p>My main stack includes Next, React, Node, and Typescript. I have experience with a variety of backend technologies and programming languages. Check it out some of them below:</p>
 
 ![Tech: HTML](https://img.shields.io/badge/HTML-gray?logo=html5&style=flat-square&logoColor=white)
 ![Tech: CSS](https://img.shields.io/badge/CSS-gray?logo=css3&style=flat-square&logoColor=white)
@@ -51,6 +51,7 @@
 ![Tech: Functional programming](https://img.shields.io/badge/Functional-programming-gray?style=flat-square)
 ![Tech: Object-oriented programming](https://img.shields.io/badge/OOP-gray?style=flat-square)
 
+![Tech: Clean architecture](https://img.shields.io/badge/Clean_arch-gray?style=flat-square)
 ![Tech: Domain-driven design](https://img.shields.io/badge/DDD-gray?style=flat-square)
 ![Tech: Test-driven development](https://img.shields.io/badge/TDD-gray?style=flat-square)
 ![Tech: Agile](https://img.shields.io/badge/Agile-gray?style=flat-square)
