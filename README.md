@@ -1,13 +1,15 @@
 <img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/main/assets/linkedin-profile.png?raw=true" width="100%">
 &nbsp;
 
-<p>Hello! I'm a software engineer specializing in design with 4+ years of experience in growing companies.</p>
+<p>Hello! I'm a full stack software engineer specializing in design with 4+ years of experience in growing companies.</p>
 
 <p>I have 1+ years of international experience with a Europe-based global company, and I'm open to contract work.</p>
 
 <p>I help companies grow quickly and smoothly by applying SEO, Accessibility, and Performance best practices, and by implementing Design Systems and A/B Tests.</p>
 
 <p>Creating beautiful, functional websites with amazing user experiences is my passion. I work enthusiastically to ensure companies growth and success.</p>
+
+<p>I enjoy building scalable architectures using proven principles and design patterns. It's very important to me that my code is readable and easy to understand.</p>
 
 <p>In collaboration with designers and product managers, I prioritize user and business needs.</p>
 
@@ -57,7 +59,7 @@
 ![Tech: Agile](https://img.shields.io/badge/Agile-gray?style=flat-square)
 
 <h2>Contact</h2>
-<p>If you're looking for a dedicated and passionate web developer, checkout my profile and send me a message! I would love to help your company grow.</p>
+<p>If you're looking for a dedicated and passionate software engineer, checkout my profile and send me a message! I would love to help your company grow.</p>
 
 [![Email: juliaramos](https://img.shields.io/badge/-Email-gray?style=flat-square&logo=Minutemailer&logoColor=white)](mailto:juliaramosguedes@gmail.com)
 [![Linkedin: /juliaramosguedes](https://img.shields.io/badge/-Linkedin-gray?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliaramosguedes/)](https://www.linkedin.com/in/juliaramosguedes/)
