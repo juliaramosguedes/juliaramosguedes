@@ -1,19 +1,19 @@
 <img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/main/assets/linkedin-profile.png?raw=true" width="100%">
 &nbsp;
 
-<p>Hello! I'm a full stack software engineer specializing in design with 4+ years of experience in growing companies.</p>
+<p>Hello! I'm a generalist software engineer with 5 years of experience in front-end and back-end.</p>
 
-<p>I have 1+ years of international experience with a Europe-based global company, and I'm open to contract work.</p>
+<p>I have 1+ year of international experience with a Europe-based global company.</p>
 
-<p>I help companies grow quickly and smoothly by applying SEO, Accessibility, and Performance best practices, and by implementing Design Systems and A/B Tests.</p>
+<p>I help companies grow quickly and smoothly by leveraging my expertise in design and organizational management.</p>
 
-<p>Creating beautiful, functional websites with amazing user experiences is my passion. I work enthusiastically to ensure companies growth and success.</p>
+<p>Creating beautiful, functional softwares with amazing user experiences is my passion. I work enthusiastically to ensure your growth and success.</p>
 
 <p>I enjoy building scalable architectures using proven principles and design patterns. It's very important to me that my code is readable and easy to understand.</p>
 
 <p>In collaboration with designers and product managers, I prioritize user and business needs.</p>
 
-<p>My main stack includes Next, React, Node, and Typescript. I have experience with a variety of backend technologies and programming languages. Check it out some of them below:</p>
+<p>My main stack includes Typescript, Node, Next and React. I have experience with a variety of backend technologies for Node, Clojure, Python and Kotlin ecosystem. Check it out some of them below:</p>
 
 ![Tech: HTML](https://img.shields.io/badge/HTML-gray?logo=html5&style=flat-square&logoColor=white)
 ![Tech: CSS](https://img.shields.io/badge/CSS-gray?logo=css3&style=flat-square&logoColor=white)
@@ -26,6 +26,7 @@
 
 ![Tech: Javascript](https://img.shields.io/badge/Javascript-gray?logo=javascript&style=flat-square&logoColor=white)
 ![Tech: Typescript](https://img.shields.io/badge/Typescript-gray?logo=typescript&style=flat-square&logoColor=white)
+![Tech: Clojure](https://img.shields.io/badge/Clojure-gray?logo=clojure&style=flat-square&logoColor=white)
 ![Tech: Python](https://img.shields.io/badge/Python-gray?logo=python&style=flat-square&logoColor=white)
 ![Tech: Kotlin](https://img.shields.io/badge/Kotlin-gray?logo=kotlin&style=flat-square&logoColor=white)
 
@@ -43,7 +44,7 @@
 ![Tech: MongoDB](https://img.shields.io/badge/MongoDB-gray?logo=mongodb&style=flat-square&logoColor=white)
 ![Tech: MySql](https://img.shields.io/badge/MySql-gray?logo=mysql&style=flat-square&logoColor=white)
 ![Tech: Postgres](https://img.shields.io/badge/Postgres-gray?logo=postgresql&style=flat-square&logoColor=white)
-![Tech: Prisma](https://img.shields.io/badge/Prisma-gray?logo=prisma&style=flat-square&logoColor=white)
+![Tech: Datomic](https://img.shields.io/badge/Datomic-gray?logo=datomic&style=flat-square&logoColor=white)
 
 ![Tech: TypeORM](https://img.shields.io/badge/TypeORM-gray?logo=typeorm&style=flat-square&logoColor=white)
 ![Tech: Mongoose](https://img.shields.io/badge/Mongoose-gray?logo=Mongoose&style=flat-square&logoColor=white)
