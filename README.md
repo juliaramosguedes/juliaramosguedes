@@ -1,4 +1,4 @@
-<img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/main/assets/linkedin-profile.png?raw=true" width="100%">
+<img align='right' src="https://github.com/juliaramosguedes/juliaramosguedes/blob/main/assets/linkedin-profile-clt.png?raw=true" width="100%">
 &nbsp;
 
 <p>Hello! I'm a <strong>senior software engineer</strong> with <strong>6 years</strong> of experience in front-end and back-end.</p>
